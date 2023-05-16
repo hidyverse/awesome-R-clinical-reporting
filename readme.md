@@ -1,4 +1,3 @@
-::: {align="center"}
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
@@ -16,7 +15,6 @@ A curated list of R for clinical study reporting docs, talks, tools, examples & 
 <!-- description -->
 
 Improving the quality, accuracy, and reproducibility of clinical study reporting with R.
-:::
 
 <!-- TOC -->
 
