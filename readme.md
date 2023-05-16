@@ -64,7 +64,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 -   [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
 
-## Packages {#packages}
+## Packages
 
 #### Data Management
 
@@ -105,7 +105,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 <!-- END CONTENT -->
 
-## Follow {#follow}
+## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
