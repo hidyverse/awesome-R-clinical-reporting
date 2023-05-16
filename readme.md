@@ -22,7 +22,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 -   [Featured (new releases)](#featured-new-releases)
 -   [Software development](#software-development)
--   [Analysis and reporting](#analysis-and-reporting)
+-   [Analysis and reporting](#analysis--reporting)
 -   [Project management](#project-management)
 -   [Packages](#packages)
 -   [Talks](#talks)
@@ -32,11 +32,11 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 <!-- CONTENT -->
 
-## Featured (new releases) {#featured-new-releases}
+## Featured (new releases)
 
 -   [Apple](https://apple.com) - Apple placeholder
 
-## Software development {#software-development}
+## Software development
 
 #### PharmaSUG Reports
 
@@ -48,7 +48,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 -   [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
-## Analysis and reporting {#analysis-and-reporting}
+## Analysis & reporting
 
 #### Books
 
@@ -58,7 +58,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 -   [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
 
-## Project management {#project-management}
+## Project management
 
 #### PharmaSUG Report
 
@@ -96,10 +96,10 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 - [Posit Pharma Meetup: R for Clinical Study Reports & Submission with Yilong Zhang](https://www.youtube.com/watch?v=RBVqKi3FV30)
 
-## Blogs {#blogs}
+## Blogs
 
 
-## Community {#community}
+## Community
 
 -   [Pharmaverse](https://pharmaverse.org/)
 
