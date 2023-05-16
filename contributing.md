@@ -4,7 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## PRs
 
-ALWAYS create a new branch with your proposed changes. Thank you!
+Please ALWAYS create a new branch with your proposed changes. Thank you!
 
 ## Adding an new Item
 
@@ -14,5 +14,5 @@ ALWAYS create a new branch with your proposed changes. Thank you!
 - Check your spelling & grammar.
 - The item must follow this format:
   ```
-  - [item name](https link) - Description beginning with capital, ending in period.
+  - [item name](https link) - Description
   ```
