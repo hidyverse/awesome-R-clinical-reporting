@@ -36,7 +36,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple placeholder
+- [Apple](https://apple.com)
 
 ## Software development
 
@@ -50,7 +50,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 - [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
-## Analysis & reporting
+## Analysis and reporting
 
 #### Books
 
