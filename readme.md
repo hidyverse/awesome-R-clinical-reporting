@@ -32,6 +32,8 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 <!-- CONTENT -->
 
+**Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video · 🔊 podcasts
+
 ## Featured (new releases)
 
 -   [Apple](https://apple.com) - Apple placeholder
@@ -40,11 +42,11 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 #### PharmaSUG Reports
 
--   [SDLC in regulated environments](https://lnkd.in/g9pv4USE)\
+-   [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
 
--   [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)\
+-   [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
 
--   [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)\
+-   [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
 
 -   [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
@@ -92,7 +94,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 -   {ctrialsgov}
 
-## Talks {#talks}
+## Talks
 
 - [Posit Pharma Meetup: R for Clinical Study Reports & Submission with Yilong Zhang](https://www.youtube.com/watch?v=RBVqKi3FV30)
 
