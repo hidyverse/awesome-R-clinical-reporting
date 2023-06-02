@@ -22,7 +22,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 - [Featured (new releases)](#featured-new-releases)
 - [Software development](#software-development)
-- [Analysis/reporting](#analysis-reporting)
+- [Analysis and reporting](#analysis-and-reporting)
 - [Project management](#project-management)
 - [Packages](#packages)
 - [Talks](#talks)
@@ -40,15 +40,10 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Software development
 
-#### PharmaSUG Reports
-
-- [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
-
-- [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
-
-- [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
-
-- [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
+- 📝 [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
+- 📝 [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
+- 📝 [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
+- 📝 [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
 ## Analysis and reporting
 
