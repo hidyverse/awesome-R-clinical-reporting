@@ -22,7 +22,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 - [Featured (new releases)](#featured-new-releases)
 - [Software development](#software-development)
-- [Analysis and reporting](#analysis--reporting)
+- [Analysis/reporting](#analysis-reporting)
 - [Project management](#project-management)
 - [Packages](#packages)
 - [Talks](#talks)
@@ -51,6 +51,8 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
 ## Analysis and reporting
+
+- 
 
 #### Books
 
