@@ -29,20 +29,20 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 <!-- CONTENT -->
 
-**Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 📦 packages · 📹 talks/video · 🔊 podcasts
+**Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 📦 packages · 📹 talks/video
 
-## Featured (new releases) {#featured-new-releases}
+## Featured (new releases)
 
 - [Apple](https://apple.com)
 
-## Software development {#software-development}
+## Software development
 
 - 📝 [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
 - 📝 [Specification development of R functions for stadardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
 - 📝 [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
 - 📝 [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
-## Analysis and reporting {#analysis-and-reporting}
+## Analysis and reporting
 
 - 📖 [R for Clinical Study Reports and Submission](https://r4csr.org/)
 - 📝 [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
@@ -57,18 +57,18 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - 📦 {vtree}
 - 📦 {ctrialsgov}
 
-## Project management {#project-management}
+## Project management
 
 - 📝 [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
 
-## Community {#community}
+## Community
 
 - [Pharmaverse](https://pharmaverse.org/)
 - R/Medicine conference
 
 <!-- END CONTENT -->
 
-## Follow {#follow}
+## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
