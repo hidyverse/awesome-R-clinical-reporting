@@ -20,91 +20,55 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Software development](#software-development)
-- [Analysis and reporting](#analysis-and-reporting)
-- [Project management](#project-management)
-- [Packages](#packages)
-- [Talks](#talks)
-- [Blogs](#blogs)
-- [Community](#community)
-- [Follow](#follow)
+-   [Featured (new releases)](#featured-new-releases)
+-   [Software development](#software-development)
+-   [Analysis and reporting](#analysis-and-reporting)
+-   [Project management](#project-management)
+-   [Community](#community)
+-   [Follow](#follow)
 
 <!-- CONTENT -->
 
-**Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video · 🔊 podcasts
+**Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 📦 packages · 📹 talks/video · 🔊 podcasts
 
-## Featured (new releases)
+## Featured (new releases) {#featured-new-releases}
 
-- [Apple](https://apple.com)
+-   [Apple](https://apple.com)
 
-## Software development
+## Software development {#software-development}
 
-- 📝 [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
-- 📝 [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
-- 📝 [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
-- 📝 [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
+-   📝 [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
+-   📝 [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
+-   📝 [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
+-   📝 [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
-## Analysis and reporting
+## Analysis and reporting {#analysis-and-reporting}
 
-- 
+-   📖 [R for Clinical Study Reports and Submission](https://r4csr.org/)
+-   📝 [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
+-   📹 [Posit Pharma Meetup: R for Clinical Study Reports & Submission with Yilong Zhang](https://www.youtube.com/watch?v=RBVqKi3FV30)
+-   📦 {redcapR}
+-   📦 [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral)
+-   📦 [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
+-   📦 [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)
+-   📦 [{gtsummary} create publication-ready analytical and summary tables](https://www.danieldsjoberg.com/gtsummary/)
+-   📦 {gtreg}
+-   📦 [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
+-   📦 {vtree}
+-   📦 {ctrialsgov}
 
-#### Books
+## Project management {#project-management}
 
-- [R for Clinical Study Reports and Submission](https://r4csr.org/)
+-   📝 [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
 
-#### PharmaSUG Reports
+## Community {#community}
 
-- [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
-
-## Project management
-
-#### PharmaSUG Report
-
-- [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
-
-## Packages
-
-#### Data Management
-
-- {redcapR}
-
-#### Data compliance
-
-- [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral)
-
-- [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
-
-#### TLFs
-
-- [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)
-
-- [{gtsummary} create publication-ready analytical and summary tables](https://www.danieldsjoberg.com/gtsummary/)
-
--{gtreg}
-
-- [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
-
-#### A&R
-
--{vtree}
-
--{ctrialsgov}
-
-## Talks
-
-- [Posit Pharma Meetup: R for Clinical Study Reports & Submission with Yilong Zhang](https://www.youtube.com/watch?v=RBVqKi3FV30)
-
-## Blogs
-
-
-## Community
-
-- [Pharmaverse](https://pharmaverse.org/)
+-   [Pharmaverse](https://pharmaverse.org/)
+-   R/Medicine conference
 
 <!-- END CONTENT -->
 
-## Follow
+## Follow {#follow}
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
