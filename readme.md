@@ -20,15 +20,15 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Contents
 
--   [Featured (new releases)](#featured-new-releases)
--   [Software development](#software-development)
--   [Analysis and reporting](#analysis--reporting)
--   [Project management](#project-management)
--   [Packages](#packages)
--   [Talks](#talks)
--   [Blogs](#blogs)
--   [Community](#community)
--   [Follow](#follow)
+- [Featured (new releases)](#featured-new-releases)
+- [Software development](#software-development)
+- [Analysis and reporting](#analysis--reporting)
+- [Project management](#project-management)
+- [Packages](#packages)
+- [Talks](#talks)
+- [Blogs](#blogs)
+- [Community](#community)
+- [Follow](#follow)
 
 <!-- CONTENT -->
 
@@ -36,63 +36,63 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Featured (new releases)
 
--   [Apple](https://apple.com) - Apple placeholder
+- [Apple](https://apple.com) - Apple placeholder
 
 ## Software development
 
 #### PharmaSUG Reports
 
--   [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
+- [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
 
--   [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
+- [Specification development of R functions for standardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
 
--   [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
+- [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
 
--   [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
+- [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
 
 ## Analysis & reporting
 
 #### Books
 
--   [R for Clinical Study Reports and Submission](https://r4csr.org/)
+- [R for Clinical Study Reports and Submission](https://r4csr.org/)
 
 #### PharmaSUG Reports
 
--   [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
+- [A&R with R in regulated trial environment](https://lnkd.in/g9pfxQv?trk=public_post-text)
 
 ## Project management
 
 #### PharmaSUG Report
 
--   [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
+- [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
 
 ## Packages
 
 #### Data Management
 
--   {redcapR}
+- {redcapR}
 
 #### Data compliance
 
--   [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral)
+- [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral)
 
--   [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
+- [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
 
 #### TLFs
 
--   [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)
+- [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)
 
--   [{gtsummary} create publication-ready analytical and summary tables](https://www.danieldsjoberg.com/gtsummary/)
+- [{gtsummary} create publication-ready analytical and summary tables](https://www.danieldsjoberg.com/gtsummary/)
 
--   {gtreg}
+-{gtreg}
 
--   [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
+- [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
 
 #### A&R
 
--   {vtree}
+-{vtree}
 
--   {ctrialsgov}
+-{ctrialsgov}
 
 ## Talks
 
@@ -103,7 +103,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Community
 
--   [Pharmaverse](https://pharmaverse.org/)
+- [Pharmaverse](https://pharmaverse.org/)
 
 <!-- END CONTENT -->
 
