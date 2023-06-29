@@ -6,7 +6,7 @@
 
 <!-- subtitle -->
 
-A curated list of R for clinical study reporting docs, talks, tools, examples & articles. Inspired by [Yilong Zhang's Post](https://www.linkedin.com/posts/yilongzhang_creating-a-validated-environment-for-reproducibility-activity-7044529198165594112-DGf4/).
+A curated list of R for clinical study reporting docs, talks, tools, examples & articles. Inspired by [Yilong Zhang's Post](https://www.linkedin.com/posts/yilongzhang_creating-a-validated-environment-for-reproducibility-activity-7044529198165594112-DGf4/) and [R for Clinical Study Reporting](https://r4csr.org/) by Yilong Zhang, Nan Xiao, Keaven Anderson, and Yalin Zhu.  
 
 <!-- image -->
 
@@ -33,7 +33,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com)
+- [CAMIS: Comparing Analysis Method Implementations in Software](https://psiaims.github.io/CAMIS/)
 
 ## Software development
 
@@ -41,6 +41,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - 📝 [Specification development of R functions for stadardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
 - 📝 [Internal R Package validation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
 - 📝 [External package qualification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
+- 📖 [CAMIS: Comparing Analysis Method Implementations in Software](https://psiaims.github.io/CAMIS/)
 
 ## Analysis and reporting
 
