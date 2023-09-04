@@ -29,6 +29,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - [Community](#community)
 - [Follow](#follow)
 
+
 <!-- CONTENT -->
 
 **Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 📦 packages · 📹 talks/video
@@ -39,38 +40,37 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Software development
 
-- 📝 [SDLC in regulated environments](https://lnkd.in/g9pv4USE)
-- 📝 [Specification development of R functions for sdardization](https://lnkd.in/gjnG4hxx?trk=public_post-text)
-- 📝 [Internal R Package vidation](https://lnkd.in/gwDty-Z7?trk=public_post-text)
-- 📝 [External package qlification](https://lnkd.in/gtpAjZA5?trk=public_post-text)
-
+- 📝 [SDLC in regulated environments](https://www.lexjansen.com/phuse-us/2020/tt/TT12.pdf)
+- 📝 [Specification development of R functions for standardization](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-074.pdf)
+- 📝 [Internal R package validation](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-084.pdf)
+- 📝 [External package qualification](https://www.pharmasug.org/proceedings/2022/SI/PharmaSUG-2022-SI-057.pdf)
 
 ## Analysis and reporting
 
-- 📖 [R for Clinical Study Reports and Su ission](https://r4csr.org/)
-- 📝 [A&R with R in regulated trial en ronment](https://lnkd.in/g9pfxQv?trk=public_post-text)
-- 📹 [Posit Pharma Meetup: R for Clinical Study Reports & Submission wi  Yilong Zng (<https://www.YouTube.com/watch?v=RBVqKi3FV30>)
-- 📦 [{redcapR} pull data from RE ap](https://ouhscbbmc.github.io/REDCapR/)
-- 📦 [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral)
-- 📦 [{xportr} create CDISC compliant xpt fi s](https://atorus-research.github.io/xportr/)
-- 📦 [{r2rtf} production-ready tables and figures in RTF fo at](https://merck.github.io/r2rtf/)
-- 📦 [{gtsummary} create publication-ready analytical and summary tl (https://www.danieldsjoberg.com/gtsummary/)
-- 📦 [{gtreg} `gtsummary` for regulatory su issions](https://shannonpileggi.github.io/gtreg/)
-- 📦 [{Tplyr} simplify the creation and traceability of common cl ical sma ies](https://atorus-research.github.io/Tplyr/)
+- 📖 [R for Clinical Study Reports and Submission](https://r4csr.org/)
+- 📝 [A&R with R in regulated trial environment](https://www.pharmasug.org/proceedings/2021/AD/PharmaSUG-2021-AD-079.pdf)
+- 📹 [Posit Pharma Meetup: R for Clinical Study Reports & Submission with Yilong Zhang](<https://www.youtube.com/watch?v=RBVqKi3FV30>)
+- 📦 [{redcapR} pull data from REDCap](https://ouhscbbmc.github.io/REDCapR/)
+- 📦 [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral/)
+- 📦 [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
+- 📦 [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)
+- 📦 [{gtsummary} create publication-ready analytical and summary tables](https://www.danieldsjoberg.com/gtsummary/)
+- 📦 [{gtreg} `gtsummary` for regulatory submissions](https://shannonpileggi.github.io/gtreg/)
+- 📦 [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
 - 📦 [{vtree} display nested data](https://nbarrowman.github.io/vtree.html)
 
 ## Project management
 
-- 📝 [Late stage clinical trial project management](https://lnkd.in/gjSJ4AUR)
+- 📝 [Late stage clinical trial project management](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-083.pdf)
 
 ## Community
 
-- 📖 [Pharmaverse](https://pharmaverse.org/)
+- 📖 [pharmaverse](https://pharmaverse.org/)
 - 📹 [R/Medicine conference](https://events.linuxfoundation.org/r-medicine/)
 
 <!-- END CONTENT -->
 
-## Follow 
+## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
