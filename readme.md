@@ -28,8 +28,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - [Project management](#project-management)
 - [Community](#community)
 - [Follow](#follow)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
+
 
 <!-- CONTENT -->
 
