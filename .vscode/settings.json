@@ -2,7 +2,8 @@
     "markdown.extension.toc.levels": "2..6",
     "markdown.extension.toc.omittedFromToc": {
         "readme.md": [
-            "## Contents"
+            "## Contents",
+            "## Contributing"
         ]
     },
 }
