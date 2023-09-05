@@ -29,7 +29,6 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - [Community](#community)
 - [Follow](#follow)
 
-
 <!-- CONTENT -->
 
 **Legend**: 📝 PharmaSUG Reports · 💡 examples · 📖 docs · 🔌 libraries · 📦 packages · 📹 talks/video
