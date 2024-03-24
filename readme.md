@@ -81,7 +81,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - 📝 [Internal R package validation](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-084.pdf)
 - 📝 [External package qualification](https://www.pharmasug.org/proceedings/2022/SI/PharmaSUG-2022-SI-057.pdf)  
 
-### Export Reports
+### Format, Render, and Export
 - 📦 [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
 - 📦 [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)  
 
@@ -97,7 +97,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 - 📝 [atorus blog](https://www.atorusresearch.com/atorus-blog/)  
-- 📖 [ClinicalTrials CRAN Task View](https://github.com/cran-task-views/ClinicalTrials) 
+- 📖 [ClinicalTrials CRAN Task View](https://github.com/cran-task-views/ClinicalTrials)  
 
 Who else should we be following!?
 
