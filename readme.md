@@ -23,9 +23,8 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Software development](#software-development)
 - [Analysis and reporting](#analysis-and-reporting)
-- [Project management](#project-management)
+- [Project management](#reporting-in-r-logi)
 - [Community](#community)
 - [Follow](#follow)
 
@@ -37,12 +36,6 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 - 📖 [CAMIS: Comparing Analysis Method Implementations in Software](https://psiaims.github.io/CAMIS/)
 
-## Software development
-
-- 📝 [SDLC in regulated environments](https://www.lexjansen.com/phuse-us/2020/tt/TT12.pdf)
-- 📝 [Specification development of R functions for standardization](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-074.pdf)
-- 📝 [Internal R package validation](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-084.pdf)
-- 📝 [External package qualification](https://www.pharmasug.org/proceedings/2022/SI/PharmaSUG-2022-SI-057.pdf)
 
 ## Analysis and reporting
 
@@ -58,10 +51,17 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 - 📦 [{Tplyr} simplify the creation and traceability of common clinical summaries](https://atorus-research.github.io/Tplyr/)
 - 📦 [{vtree} display nested data](https://nbarrowman.github.io/vtree.html)
 
-## Project management
+## Reporting in R Logistics
 
-- 📝 [Late stage clinical trial project management](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-083.pdf)
+### Project Management  
 
+- 📝 [Late stage clinical trial project management](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-083.pdf)  
+### Software development  
+
+- 📝 [SDLC in regulated environments](https://www.lexjansen.com/phuse-us/2020/tt/TT12.pdf)
+- 📝 [Specification development of R functions for standardization](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-074.pdf)
+- 📝 [Internal R package validation](https://www.pharmasug.org/proceedings/2021/SI/PharmaSUG-2021-SI-084.pdf)
+- 📝 [External package qualification](https://www.pharmasug.org/proceedings/2022/SI/PharmaSUG-2022-SI-057.pdf)
 ## Community
 
 - 📖 [pharmaverse](https://pharmaverse.org/)
