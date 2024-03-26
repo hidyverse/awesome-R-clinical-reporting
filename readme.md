@@ -1,4 +1,3 @@
-
 <!-- title -->
 # Awesome R Clinical Reporting
 
@@ -40,7 +39,6 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ## Support SDTM
 - 📦 [{admiral} develop ADaM datasets in R](https://pharmaverse.github.io/admiral/)
-- 📦 [{cards} construct CDISC analysis results dataset (ARD) objects](https://github.com/insightsengineering/cards)
 
 ## Generate TLG
 
