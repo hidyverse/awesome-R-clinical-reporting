@@ -81,7 +81,7 @@ Improving the quality, accuracy, and reproducibility of clinical study reporting
 
 ### Format, Render, and Export
 - 📦 [{xportr} create CDISC compliant xpt files](https://atorus-research.github.io/xportr/)
-- 📦 [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/)  
+- 📦 [{r2rtf} production-ready tables and figures in RTF format](https://merck.github.io/r2rtf/index.html)  
 
 ## Community
 
